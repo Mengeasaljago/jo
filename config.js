@@ -22,8 +22,8 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.ownername = '𝐖𝐑𝐀𝐍𝐙 𝐓𝐇𝐄 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘⿻'
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
+global.owner = ['6283146806107','6282393734303','6282393734303']
+global.premium = ['6282393734303']
 global.packname = '𝐖𝐑𝐀𝐍𝐙 𝐓𝐇𝐄 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘⿻'
 global.author = 'Kelazzz🎭🎭🎭'
 global.wlcm = []
